@@ -15,4 +15,4 @@ Welcome to **Danish Putra Dandi's Repository**! This project is designed to help
 - **⚡ Feature 2:** Description of feature 2.
 - **🔥 Feature 3:** Description of feature 3.
 
-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+- ![Danish Putra Dandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=danishputradandi&show_icons=true&theme=radical)
