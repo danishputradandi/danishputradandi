@@ -4,9 +4,9 @@
 **danishputradandi/danishputradandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 🌟 Danish's Project 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/username/repo-name)
-![GitHub stars](https://img.shields.io/github/stars/username/repo-name?style=social)
-![GitHub forks](https://img.shields.io/github/forks/username/repo-name?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/danishputradandi/repo-name)
+![GitHub stars](https://img.shields.io/github/stars/danishputradandi/repo-name?style=social)
+![GitHub forks](https://img.shields.io/github/forks/danishputradandi/repo-name?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishputradandi&hide_progress=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishputradandi&layout=donut-vertical)](https://github.com/danishputradandi/github-readme-stats)
