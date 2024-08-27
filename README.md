@@ -9,7 +9,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/username/repo-name?style=social)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishputradandi&hide_progress=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danishputradandi&layout=donut-vertical)](https://github.com/danishputradandi/github-readme-stats)
 
 ## 🚀 Introduction
 Welcome to **Danish Putra Dandi's Repository**! This project is designed to help the audience. Don
